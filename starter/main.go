@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"github.com/google/uuid"
-	flow "github.com/pratikgajjar/tempoc/workflow"
+	flow "github.com/rpatil1998/temporal-poc/workflow"
 	"go.temporal.io/sdk/client"
 	"log"
 )
